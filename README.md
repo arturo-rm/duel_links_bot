@@ -7,6 +7,8 @@ download duel_links_bot.zip file and unzip it
 on unziped folder press shift + right click and open powershell 
 ![Captura de pantalla (60)](https://user-images.githubusercontent.com/75585974/128552266-6de0e50d-43fb-4b44-9447-5139dc446198.png)
 
+** **python 3 and pip needed
+
 on powershell run:
 ```pip install requirements.txt``` 
 
