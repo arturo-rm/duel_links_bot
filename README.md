@@ -10,7 +10,7 @@ on unziped folder press shift + right click and open powershell
 **python 3 and pip needed**
 
 on powershell run:
-```pip install requirements.txt``` 
+```pip install -r requirements.txt``` 
 
 set in-game resolution to 1152 x 648 (from title screen)
 ![Captura de pantalla (61)](https://user-images.githubusercontent.com/75585974/128552852-53cf66b4-5e2a-44a0-bd9a-030046cfe72b.png)
